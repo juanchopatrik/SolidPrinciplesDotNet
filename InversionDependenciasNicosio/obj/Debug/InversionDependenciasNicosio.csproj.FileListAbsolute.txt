@@ -1,0 +1,8 @@
+C:\Users\USER\Documents\C#\Training\SolidPrinciples\SolidLatinAmerica\InversionDependenciasNicosio\bin\Debug\InversionDependenciasNicosio.exe.config
+C:\Users\USER\Documents\C#\Training\SolidPrinciples\SolidLatinAmerica\InversionDependenciasNicosio\bin\Debug\InversionDependenciasNicosio.exe
+C:\Users\USER\Documents\C#\Training\SolidPrinciples\SolidLatinAmerica\InversionDependenciasNicosio\bin\Debug\InversionDependenciasNicosio.pdb
+C:\Users\USER\Documents\C#\Training\SolidPrinciples\SolidLatinAmerica\InversionDependenciasNicosio\obj\Debug\InversionDependenciasNicosio.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\C#\Training\SolidPrinciples\SolidLatinAmerica\InversionDependenciasNicosio\obj\Debug\InversionDependenciasNicosio.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\C#\Training\SolidPrinciples\SolidLatinAmerica\InversionDependenciasNicosio\obj\Debug\InversionDependenciasNicosio.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\C#\Training\SolidPrinciples\SolidLatinAmerica\InversionDependenciasNicosio\obj\Debug\InversionDependenciasNicosio.exe
+C:\Users\USER\Documents\C#\Training\SolidPrinciples\SolidLatinAmerica\InversionDependenciasNicosio\obj\Debug\InversionDependenciasNicosio.pdb
